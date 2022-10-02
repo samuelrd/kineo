@@ -1,0 +1,9 @@
+{
+    "name": "samuelrd/kineo",
+    "autoload": {
+        "psr-4": {
+            "Samuelrd\\Kineo\\": "src/"
+        }
+    },
+    "require": {}
+}
